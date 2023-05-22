@@ -10,5 +10,11 @@
 * Em casos dos campos não estarem preenchidos com algum número real é acionado um alerta dizendo para digitar um número;
 * Em caso em que o divisor for igual a zero, será exibido um alerta dizendo que não é possível efetuar a divisão.
 
+## Desenvolvido por:
+
+#### Matheus Morete Espinoso
+
+#### Linkedin: https://www.linkedin.com/in/matheus-moorete/
+
 
 
